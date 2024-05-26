@@ -2,6 +2,7 @@
 
 *Cleaned data by addressing missing values and outliers, visualized key insights with
 dashboards, and applied CatBoost for machine learning after feature selection.
+
 *Developed an API for real-time data input and model results.
 
 Team members :
